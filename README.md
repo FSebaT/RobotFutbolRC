@@ -1,6 +1,8 @@
 # RobotFutbolRC
 Repositorio donde encontrarás  Circuito electrónico, Videos tutorias y programació para la creación de robot futbol para Competencia de Robótica.
+
 Taller de Armado de Robots de Competencia:
+
 Video 1 : Electrónica y Circuito:
 https://youtu.be/8Pld08N6Ang
 
